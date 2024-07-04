@@ -1,0 +1,102 @@
+<style scoped>
+.main {
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #d8d7d7;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.post-tags {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.post-tags strong {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.post-tags ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.post-tags li {
+  display: inline-block;
+  background-color: #e3e3e3;
+  color: #333;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+button {
+  margin-left: 20px;
+  padding: 10px 20px;
+}
+.save-btn {
+  border: 1px solid green;
+}
+.edit-btn {
+  background-color: rgb(233, 230, 225);
+  border: 1px solid green;
+  color: green;
+}
+
+.delete-btn {
+  background-color: rgb(233, 230, 225);
+  border: 1px solid red;
+  color: red;
+}
+.cancel-btn {
+  border: 1px solid red;
+}
+.save-btn,
+.cancel-btn,
+.delete-btn:hover {
+  cursor: pointer;
+}
+
+input {
+  width: 80%;
+  height: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+textarea {
+  width: 80%;
+  height: 200px;
+}
+</style>
