@@ -4,71 +4,37 @@
       "id": "1",
       "title": "How to learn coding",
       "details": "To learn coding, start with understanding the basics of HTML and CSS. Practice regularly and build small projects to enhance your skills. HTML provides the structure of the webpage, while CSS styles the HTML elements. Coding involves writing instructions for a computer to follow. By learning coding languages like JavaScript, Python, or Java, you can create applications, websites, and software. Join coding communities, participate in coding challenges, and collaborate on projects to improve your coding skills. Remember, coding requires patience and persistence, so keep practicing and learning!",
-      "tags": [
-        "html",
-        "css",
-        "coding"
-      ]
+      "tags": ["html", "css", "coding"]
     },
     {
       "id": "2",
       "title": "Introduction to JavaScript",
       "details": "JavaScript is a versatile language used to create dynamic content on web pages. Begin with learning basic syntax and concepts like variables, loops, and functions. Practice writing JavaScript code to manipulate webpage elements, handle user interactions, and perform calculations. JavaScript frameworks and libraries like React and Vue.js help streamline web development by providing pre-written code and tools. Expand your JavaScript skills by exploring advanced topics such as asynchronous programming, APIs, and browser compatibility. With JavaScript, you can build interactive web applications and contribute to the ever-evolving web development landscape.",
-      "tags": [
-        "javascript",
-        "programming",
-        "web development"
-      ]
+      "tags": ["javascript", "programming", "web development"]
     },
     {
       "id": "3",
       "title": "Getting Started with Python",
       "details": "Python is a powerful and easy-to-learn programming language. Start with understanding basic syntax, data types, and control structures. Practice by writing simple programs that solve real-world problems. Python's versatility extends to web development, data analysis, artificial intelligence, and more. Dive deeper into Python libraries like NumPy, Pandas, and TensorFlow to manipulate data, perform statistical analysis, and build machine learning models. Join Python communities, attend coding workshops, and contribute to open-source projects to enhance your Python skills. With Python, you can turn ideas into reality and shape the future of technology.",
-      "tags": [
-        "python",
-        "programming",
-        "beginner"
-      ]
+      "tags": ["python", "programming", "beginner"]
     },
     {
       "id": "4",
       "title": "Understanding Databases",
       "details": "Databases are crucial for storing and managing data. Start with learning about relational databases and SQL, and then explore NoSQL databases. Understand database design principles, normalization techniques, and indexing strategies to optimize data storage and retrieval. Use SQL queries to manipulate data, perform transactions, and ensure data integrity. Explore popular database management systems like MySQL, PostgreSQL, and MongoDB to choose the right solution for your application. Learn about database security, backup procedures, and scalability to maintain reliable and efficient databases. With a solid understanding of databases, you can design robust data solutions and support business operations effectively.",
-      "tags": [
-        "databases",
-        "sql",
-        "nosql"
-      ]
+      "tags": ["databases", "sql", "nosql"]
     },
     {
       "id": "5",
       "title": "Intro to Version Control",
       "details": "Version control systems like Git are essential for collaboration in software development. Learn the basics of Git commands and how to use platforms like GitHub. Use Git to track changes in your codebase, collaborate with team members, and revert to previous versions when needed. Explore Git branching strategies, merge conflicts resolution, and code review practices to streamline development workflows. Integrate Git with continuous integration tools to automate testing and deployment processes. By mastering version control, you can improve code quality, maintain project history, and facilitate seamless collaboration across distributed teams.",
-      "tags": [
-        "version control",
-        "git",
-        "github"
-      ]
+      "tags": ["version control", "git", "github"]
     },
     {
       "id": "6",
       "title": "Modern Web Frameworks",
       "details": "Modern web frameworks streamline web development by providing tools and libraries for building robust applications. Frameworks like React, Angular, and Vue.js enable developers to create dynamic user interfaces efficiently. React focuses on a component-based architecture, Angular offers a comprehensive solution with two-way data binding, and Vue.js provides flexibility and ease of integration. These frameworks enhance development speed, maintainability, and scalability, allowing developers to build high-performance web applications that meet today's user demands.",
-      "tags": [
-        "web frameworks",
-        "react",
-        "angular",
-        "vue.js"
-      ]
-    },
-    {
-      "id": "8",
-      "title": "branislav",
-      "details": "ivanovic",
-      "tags": [
-        "pg",
-        "eng"
-      ]
+      "tags": ["web frameworks", "react", "angular", "vue.js"]
     }
   ]
 }
